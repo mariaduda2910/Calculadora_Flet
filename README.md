@@ -1,7 +1,13 @@
-# Calculadora_Flet
-# 📱 App de Lista de Tarefas
+# Calculadora com o Flet 
+# 📱 App de calculadora
 
-Projeto desenvolvido para a disciplina de Computação Móvel.
+## INTRODUÇÃO
+Projeto desenvolvido para a disciplina de Computação Móvel pelas alunas Maria Gomes e Laura Kayamori
+O projeto tem o objetivo de construir uma calculadora....
+
+## DESEVOLVIMENTO
+
+## CONCLUSÃO
 
 ## 🚀 Tecnologias
 - Python
